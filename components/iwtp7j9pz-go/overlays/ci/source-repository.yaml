@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: iwtp7j9pz-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/iwtp7j9pz-go
